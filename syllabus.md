@@ -57,16 +57,19 @@ There is no required textbook, but here is a list of recommended books:
 
 |Module |Topic|
 |---|---|
+| | **Unit 1** - Web Science and Web Architecture|
 |1|Introduction to Web Science and Web Architecture
 |2|Introduction to Python
 |3|Introduction to Info Vis with R, Python
 |4|Measuring the Web
 |5|Archiving the Web
 |6|Searching the Web
+| | **Unit 2** - Social Networks|
 |7|Social Networks
 |8|Selection and Social Influence
 |9|Visualizing Social Networks
 |10|Disinformation
+| | **Unit 3** - Collective Intelligence |
 |11|Collective Intelligence and Recommender Systems
 |12|Clustering Algorithms
 |13|Document Filtering (Classification)
@@ -74,4 +77,6 @@ There is no required textbook, but here is a list of recommended books:
 
 ## Course History
 
-This course at ODU was originally developed by [Dr. Michael Nelson](https://www.cs.odu.edu/~mln/), based on Dr. Frank McCown (ODU alum)'s Intro to Web Science course at Harding University. In previous semesters, it has also been taught by Dr. Alexander Nwala (former PhD student at ODU).
+These course materials have been prepared by [Dr. Michele C. Weigle](https://www.cs.odu.edu/~mweigle/). 
+
+This course at ODU was originally developed by [Dr. Michael L. Nelson](https://www.cs.odu.edu/~mln/), based on [Dr. Frank McCown](https://sites.harding.edu/fmccown/)'s Intro to Web Science course at [Harding University](https://www.harding.edu/). In previous semesters, it has also been taught by [Dr. Alexander Nwala](https://alexandernwala.com/) (former PhD student at ODU). Contributions from all of these instructors have been incorporated into the course materials.
