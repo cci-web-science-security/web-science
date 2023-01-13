@@ -30,7 +30,7 @@ L --> D
 M --> D
 ```
 
-Draw the resulting [directed graph](https://en.wikipedia.org/wiki/Directed_graph) (either sketch on paper or use another tool) showing how the nodes are connected to each other and include an image in your report.  This does not need to fit into the bow-tie type diagram, but should look more similar to the graph on slide 24 from [Module-01 Web-Science-Architecture](https://docs.google.com/presentation/d/178GkNtFAPB5fzs1D-wdCnlOdbcTyhpAIz_wKxVUaHVk/edit#slide=id.ga9773ac230_0_799).
+Draw the resulting [directed graph](https://en.wikipedia.org/wiki/Directed_graph) (either sketch on paper or use another tool) showing how the nodes are connected to each other and include an image in your report.  This does not need to fit into the bow-tie type diagram, but should look more similar to the graph on slide 24 from Module-01 Web-Science-Architecture.
 
 For the graph, list the nodes (in alphabetical order) that are each of the following categories:
 * SCC: 
@@ -82,6 +82,6 @@ Content Length: 18,995,885 bytes
 
 Show that the program works on 3 different URIs, one of which must be https://www.cs.odu.edu/~mweigle/courses/cs532/pdfs.html, which contains 8 links to PDFs. 
 * Many faculty members have a list of their publications in PDF form on their webpages.  You can discover ODU CS faculty webpages is through the [Research](https://odu.edu/compsci/research) page on the CS homepage. Click on a faculty member's name and that will take you to their ODU directory page.  Most of us have another link on that page that goes to our homepages where you can then find a list of publications that will often link to PDFs. 
-* Also, there are a set of pages linked on our [CS 432/532 Syllabus](syllabus.md) that say "pdf available".  If you follow some of those links, you'll likely find a page that links to at least one PDF.
+* Also, there are a set of pages linked on the [Syllabus](syllabus.md) that say "pdf available".  If you follow some of those links, you'll likely find a page that links to at least one PDF.
 
 You will likely want to use the BeautifulSoup Python library for this question. You may need to run ``pip3 install beautifulsoup4`` before you can use BeautifulSoup.
