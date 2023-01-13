@@ -79,4 +79,4 @@ There is no required textbook, but here is a list of recommended books:
 
 These course materials have been prepared by [Dr. Michele C. Weigle](https://www.cs.odu.edu/~mweigle/). 
 
-This course at ODU was originally developed by [Dr. Michael L. Nelson](https://www.cs.odu.edu/~mln/), based on [Dr. Frank McCown](https://sites.harding.edu/fmccown/)'s Intro to Web Science course at [Harding University](https://www.harding.edu/). In previous semesters, it has also been taught by [Dr. Alexander Nwala](https://alexandernwala.com/) (former PhD student at ODU). Contributions from all of these instructors have been incorporated into the course materials.
+This course at ODU was originally developed by [Dr. Michael L. Nelson](https://www.cs.odu.edu/~mln/), based on [Dr. Frank McCown](https://sites.harding.edu/fmccown/)'s Intro to Web Science course at [Harding University](https://www.harding.edu/). It has been taught at ODU by Dr. Nelson, [Dr. Alexander Nwala](https://alexandernwala.com/) (former PhD student at ODU), and Dr. Weigle. Contributions from all of these instructors have been incorporated into the course materials.
