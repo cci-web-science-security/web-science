@@ -434,6 +434,13 @@ Module 10 covered disinformation and how it can spread through social media.  Th
 
 # Unit 3 - Collective Intelligence
 
+Unit 3 consists of 4 modules:
+
+* Module 11: Collective Intelligence and Recommender Systems
+* Module 12: Clustering Algorithms
+* Module 13: Document Filtering (Classification)
+* Module 14: kNN and Algorithm Summary
+
 # Module 11
 
 ## Collective Intelligence and Recommender Systems
