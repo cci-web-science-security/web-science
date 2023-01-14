@@ -11,8 +11,9 @@ Write a report that answers and *explains how you arrived at the answers* to the
 
 ### Data Source
 
-* 346 domains publishing false Coronavirus information, gathered by [NewsGuardTech's Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/special-reports/coronavirus-misinformation-tracking-center/) as of October 29, 2020 ([archived version](http://web.archive.org/web/20201029234552/https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/))
-   * fields: domain, country, notes
+[hw6-domains.csv](hw6-domains.csv) - 346 domains that were determined to be publishing false Coronavirus information, gathered by [NewsGuardTech's Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/special-reports/coronavirus-misinformation-tracking-center/) as of October 29, 2020 ([archived version](http://web.archive.org/web/20201029234552/https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/))
+
+* fields: domain, country, notes
 
 ### Q1 - Collect and Analyze New Tweets
 

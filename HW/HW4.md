@@ -15,7 +15,7 @@ Write a report that answers and *explains how you arrived at the answers* to the
 
 Determine if the friendship paradox holds for a user's Facebook account. *(This used to be more interesting when you could more easily download your friend's friends data from Facebook.  Facebook now requires each friend to approve this operation, effectively making it impossible.)* 
 
-HW4-friend-count.csv contains a user's friends' names and number of friends they each have. 
+[hw4-friend-count.csv](hw4-friend-count.csv) contains a user's friends' names and number of friends they each have. 
 
 *Q: What is the mean, standard deviation, and median of the number of friends that the user's friends have?*  
 
@@ -33,12 +33,12 @@ If you have less than 50 followers on Twitter, then you can do the analysis for 
 
 *Q: Does the friendship paradox hold for you and your followers on Twitter?*
 
-You should use Twarc2 in Python to access the Twitter API to find a user's followers.  The code to access the Twitter API should be similar to [collect-tweets.py](getting-started/collect-tweets.py) from EC0.7, so you can use that as a starting place.
+You should use Twarc2 in Python to access the Twitter API to find a user's followers.  The code to access the Twitter API should be similar to [collect-tweets.py](../code/collect-tweets.py) from EC0.7, so you can use that as a starting place.
 
 Other helpful references:
 * [Labs for the Standard Product Track in Python](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research/blob/main/modules/6b-labs-code-standard-python.md) - look at the section headings to find the appropriate part to read
 * [Twitter's User object model](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/user) - explains the data structure returned from the Twitter API
-* [process-tweets.py](getting-started/process-tweets.py) - from EC0.7, shows examples of accessing different parts of the data structure returned from the Twitter API
+* [process-tweets.py](../code/process-tweets.py) - from EC0.7, shows examples of accessing different parts of the data structure returned from the Twitter API
 
 ## Extra Credit
 
