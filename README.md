@@ -3,7 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* Lecture Slides: [slides-pdf](PDF), [slides-pptx](PPTX)
+* Lecture Slides: [PDF](slides-pdf), [PPTX](slides-pptx)
 
 ## Schedule
 
